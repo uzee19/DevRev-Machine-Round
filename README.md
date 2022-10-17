@@ -11,7 +11,7 @@ An api would fetch the results of query and display the results as a dropdown.
 
 Clicking on any of the options in dropwdown copies its value to the INPUT.
 
-![alt text](public/dropdown.gif | width =100)
+![alt text](public/dropdown.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
