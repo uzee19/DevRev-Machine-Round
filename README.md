@@ -3,9 +3,11 @@
 
 
 ## Name Search
-![alt text](public/search.png)\
+![alt text](public/search.png)\\
 Users could type a search query in the INPUT.\
-Then an api would fetch the results of query and display the results as a dropdown.
+Then an api would fetch the results of query and display the results as a dropdown.\\
+
+![alt text](public/dropdown.gif =250x250)\
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
