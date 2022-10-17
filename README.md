@@ -5,13 +5,13 @@
 ## Name Search
 ![alt text](public/search.png)
 
-Users could type a search query in the INPUT.
+**Users could type a search query in the INPUT.
 
-An api would fetch the results of query and display the results as a dropdown.
-
-Clicking on any of the options in dropwdown copies its value to the INPUT.
+**An api would fetch the results of query and display the results as a dropdown.
 
 ![alt text](public/dropdownMenu.gif)
+
+**Clicking on any of the options in dropwdown copies its value to the INPUT.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
