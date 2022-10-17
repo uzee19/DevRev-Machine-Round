@@ -3,7 +3,7 @@
 
 
 ## Name Search
-![alt text](public/search.png)
+![alt text](public/search.png)\
 Users could type a search query in the INPUT.\
 Then an api would fetch the results of query and display the results as a dropdown.
 
