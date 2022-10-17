@@ -1,8 +1,8 @@
-# Getting Started with Name search.
+# Getting Started with Autocomplete Dropdowns.
 
 
 
-## Name Search
+## Autocomplete Dropdown
 ![alt text](public/search.png)
 
 **Users could type a search query in the INPUT.**
