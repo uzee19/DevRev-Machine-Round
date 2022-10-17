@@ -7,7 +7,9 @@
 
 Users could type a search query in the INPUT.
 
-Then an api would fetch the results of query and display the results as a dropdown.
+An api would fetch the results of query and display the results as a dropdown.
+
+Clicking on any of the options in dropwdown copies its value to the INPUT.
 
 ![alt text](public/dropdown.gif | width =100)
 
